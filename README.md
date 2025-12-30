@@ -8,9 +8,13 @@
 📒 [CODE](https://product.kyobobook.co.kr/detail/S000211648247) 🔖 P.240 ~ 2026/01/03 까지
 ### 🚩다음에 읽을 책
 📕 [혼자 공부하는 컴퓨터구조 + 운영체제](https://product.kyobobook.co.kr/detail/S000061584886) - 2026/01/04 ~ 2026/01/10 예정
+
 📕 [OSTEP](https://product.kyobobook.co.kr/detail/S000001732370) - 2026/02 중 예정
+
 📕 [JVM 밑바닥까지 파헤치기](https://product.kyobobook.co.kr/detail/S000213057051) - 2026/02 중 예정
+
 📕 [Effective Java](https://product.kyobobook.co.kr/detail/S000001033066) - 2026/03 중 예정
+
 📕 [오브젝트](https://product.kyobobook.co.kr/detail/S000001766367) - 2026/03 중 예정
 
 ### ✅ 지금까지 읽은 책들
