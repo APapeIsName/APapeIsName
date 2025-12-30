@@ -2,7 +2,23 @@
   <img src="https://github.com/user-attachments/assets/74971b82-8af7-4c2a-9d4a-aa4e91899ef0" />
 </div>
 
-## 2026년 목표 : 집에 쌓여 있는 책 10권 이상 완독
+# 2026년 목표 
+
+## 1. 개발 기술과 관련없는 책 3권 이상 완독
+🎯 지하철 출퇴근 시나 휴식할 때처럼 시간 남을 때만 봐서 3권 이상 보기
+
+### 📚 지금 읽고 있는 책
+📒 [싯다르타](https://product.kyobobook.co.kr/detail/S000215820974)
+
+### 🚩다음에 읽을 책
+📕 [스토너](https://product.kyobobook.co.kr/detail/S000000478177)
+
+📕 [명상록](https://product.kyobobook.co.kr/detail/S000001897778)
+
+### ✅ 지금까지 읽은 책들
+📗 ...
+
+## 2. 집에 쌓여 있는 개발 책 10권 이상 완독 및 학습
 
 ### 📚 지금 읽고 있는 책
 📒 [CODE](https://product.kyobobook.co.kr/detail/S000211648247) 🔖 P.240 ~ 2026/01/03 까지
