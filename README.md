@@ -1,6 +1,7 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/74971b82-8af7-4c2a-9d4a-aa4e91899ef0" />
 </div>
+
 ## 2026년 목표 : 집에 쌓여 있는 책들 읽기
 
 ### 📚 지금 읽고 있는 책
